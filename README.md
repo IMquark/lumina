@@ -10,9 +10,10 @@ Our focus is on delivering a highly responsive, low-overhead experience with a m
 * **Versatility:** Compatible with multiple client versions and community servers.(not lazer)
 
 ### 🔗 Resources
-* 🌐 [Project Home]()
+* 🌐 [Project Home]
 * 💬 [Community Support] (Link your Discord)
 
 ---
 *Notice: Lumina is an independent project for research and private optimization. Users are responsible for their own environment and compliance.*
+
 
