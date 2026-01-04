@@ -1,17 +1,17 @@
 # 🟡 LUMINA 🟡
 
-Lumina is a next-generation internal tool for **osu!**, written from the ground up in **Rust**. 
-Our goal is to provide a seamless, low-latency experience while maintaining a minimalist aesthetic.
+Lumina is a lightweight internal utility for **osu!**, developed entirely in **Rust**. 
+Our focus is on delivering a highly responsive, low-overhead experience with a minimalist aesthetic.
 
-### ✨ Features
-* **Internal Engine:** Direct memory access for zero-latency response.
-* **Modern UI:** Sleek Black & Yellow ImGui interface.
-* **Safety:** Advanced pointer-scanning and safety checks.
-* **Compatibility:** Works on Stable, Cutting Edge, and most Private Servers.
+### ✨ Technical Highlights
+* **Native Integration:** Built in Rust for memory-efficient game interaction.
+* **Custom Workspace:** A sleek Black & Yellow interface designed for clarity.
+* **Optimization:** Advanced logic for consistent performance on all hardware.
+* **Versatility:** Compatible with multiple client versions and community servers.
 
-### 🔗 Links
-* 🌐 [Official Website](https://yourusername.github.io/lumina)
-* 💬 [Join our Discord] 
+### 🔗 Resources
+* 🌐 [Project Home](https://yourusername.github.io/lumina)
+* 💬 [Community Support] (Link your Discord)
 
 ---
-*Disclaimer: Lumina is for educational and personal use only. Use at your own risk.*
+*Notice: Lumina is an independent project for research and private optimization. Users are responsible for their own environment and compliance.*
