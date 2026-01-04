@@ -11,7 +11,7 @@ Our goal is to provide a seamless, low-latency experience while maintaining a mi
 
 ### 🔗 Links
 * 🌐 [Official Website](https://yourusername.github.io/lumina)
-* 💬 [Join our Discord](YOUR_DISCORD_LINK)
+* 💬 [Join our Discord]([YOUR_DISCORD_LINK](https://discord.gg/Va6EpFWb))
 
 ---
 *Disclaimer: Lumina is for educational and personal use only. Use at your own risk.*
