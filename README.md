@@ -7,7 +7,7 @@ Our focus is on delivering a highly responsive, low-overhead experience with a m
 * **Native Integration:** Built in Rust for memory-efficient game interaction.
 * **Custom Workspace:** A sleek Black & Yellow interface designed for clarity.
 * **Optimization:** Advanced logic for consistent performance on all hardware.
-* **Versatility:** Compatible with multiple client versions and community servers.
+* **Versatility:** Compatible with multiple client versions and community servers.(not lazer)
 
 ### 🔗 Resources
 * 🌐 [Project Home](https://yourusername.github.io/lumina)
